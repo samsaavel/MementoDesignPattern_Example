@@ -3,7 +3,9 @@
 # Is a behavioral design pattern that try to give a resolution to the issues with the backups
 # and its recovery.
 # To this design Memento lets you save and restore the previous state of an object
-# with revealing the details of its implementation (Encapsulation), in this code example
+# with revealing the details of its implementation (Encapsulation), we had two options to implemnt:
+#![Diagram](C:\Users\vanessa.gonzalez\Documents\repositorio\memento.example\images)
+# in this code example
 # set a package called History where you can found two class:
 # 1. Memento.class and History.class:
 # Now this the conecction:
