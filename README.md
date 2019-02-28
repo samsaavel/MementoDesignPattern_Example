@@ -7,6 +7,10 @@
 
 #Diagram:
 ![alt text](https://github.com/samsaavel/MementoDesignPattern_Example/blob/master/images/Capture.PNG)
+
+#Diagram 2:
+![alt text](https://github.com/samsaavel/MementoDesignPattern_Example/blob/master/images/Capture1.PNG)
+
 # in this code example
 # set a package called History where you can found two class:
 # 1. Memento.class and History.class:
