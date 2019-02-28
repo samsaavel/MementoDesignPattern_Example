@@ -1,12 +1,12 @@
 # Memento Design Pattern
 
 # Is a behavioral design pattern that try to give a resolution to the issues with the backups and its recovery.
-# To this design Memento lets you save and restore the previous state of an object without revealing the details of its implementation (Encapsulation), we had two options to implemnt:
+# To this design Memento lets you save and restore the previous state of an object without revealing the details of its implementation (Encapsulation), we had two options to implement:
 
-#Diagram:
+# Diagram:
 ![alt text](https://github.com/samsaavel/MementoDesignPattern_Example/blob/master/images/Capture.PNG)
 
-#Diagram 2:
+# Diagram 2:
 ![alt text](https://github.com/samsaavel/MementoDesignPattern_Example/blob/master/images/Capture1.PNG)
 
 # In this code example set a package called History where you can found two class:
