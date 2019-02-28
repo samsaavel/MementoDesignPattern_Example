@@ -4,7 +4,7 @@
 # and its recovery.
 # To this design Memento lets you save and restore the previous state of an object
 # with revealing the details of its implementation (Encapsulation), we had two options to implemnt:
-#![Diagram](C:\Users\vanessa.gonzalez\Documents\repositorio\memento.example\images)
+#![Diagram](C:\Users\vanessa.gonzalez\Documents\repositorio\memento.example\images\Capture)
 # in this code example
 # set a package called History where you can found two class:
 # 1. Memento.class and History.class:
